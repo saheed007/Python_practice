@@ -1,2 +1,2 @@
 # Python_practice
-First repo created to store python practice files
+This repo contains codes that can help beginners learn some basic python concepts
